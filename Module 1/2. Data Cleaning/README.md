@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=F4DDDD&height=300&section=header&text=Data%Cleaning&descAlignY=51&descAlign=62)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=F4DDDD&height=300&section=header&text=Data%20Cleaning&descAlignY=51&descAlign=62)
 
 ##  تنظيف البيانات هي عملية إصلاح البيانات غير الصحيحة أو غير الكاملة أو المكررة أو الخاطئة في مجموعة البيانات.
 ### *الهدف من هذا المعمل :* إنشاء بعض التصويرات البيانية لاستكشاف مجموعة البيانات الخاصة بنا بشكل أفضل وتنظيفها كخطوة تالية.
